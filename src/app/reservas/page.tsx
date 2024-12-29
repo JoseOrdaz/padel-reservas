@@ -1,4 +1,4 @@
-// app/reservas/page.tsx
+"use client"
 import { useState } from 'react';
 
 const ReservaForm = () => {
